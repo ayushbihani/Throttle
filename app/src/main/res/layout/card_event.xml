@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:background="?android:attr/selectableItemBackground"
+        tools:background="@drawable/common_google_signin_btn_text_dark_pressed"
+        android:layout_width="match_parent"
+        android:layout_height="240sp"
+        android:layout_marginTop="8sp"
+        android:elevation="@dimen/card_elevation"
+        android:layout_marginBottom="8sp"
+        card_view:cardCornerRadius="6sp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="140sp"
+            android:elevation="8sp"
+            android:src="@drawable/horsley" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            android:layout_marginTop="139sp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/Place"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="2sp"
+                    android:text="Horsley Hills"
+                    android:textColor="#000000"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/Date_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="2sp"
+                    android:text="Place:"
+                    android:textColor="#000000" />
+
+                <TextView
+                    android:id="@+id/StartPoint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginTop="2sp"
+                    android:text="Starting point"
+                    android:textColor="#000000" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="10sp"
+                android:text="JOIN"
+                android:id="@+id/joinButton"
+                android:textColor="@color/white"
+                android:theme="@style/MyButton" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

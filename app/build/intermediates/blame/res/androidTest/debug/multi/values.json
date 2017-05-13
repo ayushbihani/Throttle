@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\f2fbba936aa4f1dd67ff77cb2052fa56c5d7f134\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/bihaniayush/.android/build-cache/aec390c1953e8c3629990ac1a9472233fc9af985/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

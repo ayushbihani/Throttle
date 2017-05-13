@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/card_event_save.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/card_event_save.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/card_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/card_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_input.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\layout\\ride_input.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/register_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/register_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/activity_your_rides_activity.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/activity_your_rides_activity.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\layout\\register_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/ride_input.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/ride_input.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_login.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/activity_joined_rides__activtiy.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/activity_joined_rides__activtiy.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\layout\\activity_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/activity_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/activity_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/content_joined_rides__activtiy.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/content_joined_rides__activtiy.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/drawer.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/drawer.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/content_your_rides_activity.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/content_your_rides_activity.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/navigation_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/navigation_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/content_login.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/layout/content_login.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_event.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\layout\\card_event.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\layout\\design_navigation_menu_item.xml"
+    }
+]
