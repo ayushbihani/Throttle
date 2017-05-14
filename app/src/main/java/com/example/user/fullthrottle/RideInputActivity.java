@@ -147,7 +147,7 @@ public class RideInputActivity extends AppCompatActivity {
                 public void onDateSet(DatePicker arg0,
                                       int arg1, int arg2, int arg3) {
                     // TODO Auto-generated method stub
-                    time.setText(arg1+"/"+arg2+"/"+arg3);
+                    time.setText(arg0+"/"+arg1+"/"+arg2);
                 }
             };
 

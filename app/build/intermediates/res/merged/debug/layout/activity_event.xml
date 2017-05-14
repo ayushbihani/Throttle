@@ -14,11 +14,15 @@
         android:layout_gravity="end|bottom"
         android:layout_margin="10dp"
         android:src="@drawable/fab" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20sp"
+        android:background="#424242"/>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:scrollbars="vertical" />
 
 </android.support.design.widget.CoordinatorLayout>

@@ -12,9 +12,13 @@
         android:background="?android:attr/selectableItemBackground"
         tools:background="@drawable/common_google_signin_btn_text_dark_pressed"
         android:layout_width="match_parent"
-        android:layout_height="240sp"
+        android:layout_height="250sp"
         android:layout_marginTop="8sp"
-        android:elevation="@dimen/card_elevation"
+        android:elevation="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
         android:layout_marginBottom="8sp"
         card_view:cardCornerRadius="6sp">
 
@@ -24,16 +28,24 @@
             android:elevation="8sp"
             android:src="@drawable/horsley" />
 
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="70sp"
             android:layout_marginTop="139sp"
             android:orientation="horizontal">
+            <View
+                android:layout_width="match_parent"
+                android:layout_marginTop="4sp"
+                android:layout_height="0.5sp"
+                android:backgroundTint="@color/cardview_dark_background"
+                android:background="#000"></View>
 
             <LinearLayout
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
+                android:layout_height="100sp"
+                android:orientation="vertical"
+                >
 
                 <TextView
                     android:id="@+id/Place"

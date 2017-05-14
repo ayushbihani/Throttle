@@ -109,7 +109,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/image"
-            android:onClick="selectimage"
             android:layout_marginTop="15sp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />

@@ -58,8 +58,6 @@ public class EventActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         auth=FirebaseAuth.getInstance();
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        toolbar.setTitle("FullThrottle");
-        setSupportActionBar(toolbar);
         setContentView(R.layout.navigation_event);
         fab=(FloatingActionButton)findViewById(R.id.fab);
         recyclerView=(RecyclerView) findViewById(R.id.recycler_view);
