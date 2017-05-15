@@ -1,47 +1,39 @@
 [
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_fade_out.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
@@ -52,44 +44,44 @@
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
         "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
         "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
@@ -100,8 +92,20 @@
         "source": "/home/bihaniayush/.android/build-cache/6846ef7a3bac6dfcbab74077c81abe2cd1a629d0/output/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
         "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
@@ -112,19 +116,15 @@
         "source": "/home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\fd8ea5a89c7024b5c26ead9501c595428f7855b6\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\.android\\build-cache\\10c71720b20f274812b9d5b2939c4f1190e21305\\output\\res\\anim\\design_fab_in.xml"
     }
 ]

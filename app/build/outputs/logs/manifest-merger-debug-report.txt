@@ -22,9 +22,10 @@ MERGED from [com.android.support:appcompat-v7:24.2.1] /home/bihaniayush/.android
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bihaniayush/.android/build-cache/d09fe1ae3d0fbcae59a651e8f769c852294997c9/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bihaniayush/.android/build-cache/2b2ee85fb858e3af994231a0cf62ad7e21007cd7/output/AndroidManifest.xml:23:5-20
 MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/bihaniayush/.android/build-cache/b5b8b6b19d7082f54e89f7284e253b7faa26ce3c/output/AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/bihaniayush/.android/build-cache/1ef4a049512c206ffbe52807c34a20dc320c3708/output/AndroidManifest.xml:19:5-29:19
 MERGED from [com.android.support:cardview-v7:24.0.0] /home/bihaniayush/.android/build-cache/b5a37231228bc1e47c7393ec0070456cfd7a85a9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-core:10.0.1] /home/bihaniayush/.android/build-cache/b6f934a008f23935031ab2afbeb80a411796ce5a/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/bihaniayush/.android/build-cache/3945ea22aa333f5f1e43408e3a79fd2b18eb13d7/output/AndroidManifest.xml:24:5-28:19
@@ -104,7 +105,6 @@ MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/bihaniay
 MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/bihaniayush/.android/build-cache/2b2ee85fb858e3af994231a0cf62ad7e21007cd7/output/AndroidManifest.xml:21:5-43
 MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/bihaniayush/.android/build-cache/b5b8b6b19d7082f54e89f7284e253b7faa26ce3c/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/bihaniayush/.android/build-cache/7fedc7f76d814ffab02cc2ce1da04915bdeeab7e/output/AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/bihaniayush/.android/build-cache/1ef4a049512c206ffbe52807c34a20dc320c3708/output/AndroidManifest.xml:17:5-42
 MERGED from [com.android.support:cardview-v7:24.0.0] /home/bihaniayush/.android/build-cache/b5a37231228bc1e47c7393ec0070456cfd7a85a9/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/bihaniayush/.android/build-cache/dabe8f71b8481e10a453a1d33083c3ad66149c3b/output/AndroidManifest.xml:20:5-43
@@ -112,6 +112,8 @@ MERGED from [com.google.firebase:firebase-database:10.0.1] /home/bihaniayush/.an
 MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/bihaniayush/.android/build-cache/fc33c509f2bac05fb00728870a2a42a96e083888/output/AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/bihaniayush/.android/build-cache/5442d58f4fc7b0bb0ce44b4c9380d384f88268b3/output/AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/bihaniayush/.android/build-cache/7933957ae57c55bbdbbb90dd246b4bc9869ab846/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-core:10.0.1] /home/bihaniayush/.android/build-cache/b6f934a008f23935031ab2afbeb80a411796ce5a/output/AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/bihaniayush/.android/build-cache/3945ea22aa333f5f1e43408e3a79fd2b18eb13d7/output/AndroidManifest.xml:17:5-42
@@ -151,14 +153,6 @@ ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/bihaniayush/
 		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/bihaniayush/.android/build-cache/b5b8b6b19d7082f54e89f7284e253b7faa26ce3c/output/AndroidManifest.xml:24:88-182
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/bihaniayush/.android/build-cache/b5b8b6b19d7082f54e89f7284e253b7faa26ce3c/output/AndroidManifest.xml:24:18-63
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:19-85
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/bihaniayush/.android/build-cache/1ef4a049512c206ffbe52807c34a20dc320c3708/output/AndroidManifest.xml:23:9-27:19
 	android:exported
@@ -173,18 +167,34 @@ action#com.google.firebase.MESSAGING_EVENT
 ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/bihaniayush/.android/build-cache/1ef4a049512c206ffbe52807c34a20dc320c3708/output/AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/bihaniayush/.android/build-cache/1ef4a049512c206ffbe52807c34a20dc320c3708/output/AndroidManifest.xml:25:25-75
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/bihaniayush/.android/build-cache/3945ea22aa333f5f1e43408e3a79fd2b18eb13d7/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/bihaniayush/.android/build-cache/8f7e04a5b24346978d4cee778a01d54a85510a8b/output/AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:21:5-78
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/bihaniayush/.android/build-cache/3945ea22aa333f5f1e43408e3a79fd2b18eb13d7/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/bihaniayush/.android/build-cache/8f7e04a5b24346978d4cee778a01d54a85510a8b/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:21:22-76
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/bihaniayush/.android/build-cache/3945ea22aa333f5f1e43408e3a79fd2b18eb13d7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/bihaniayush/.android/build-cache/8f7e04a5b24346978d4cee778a01d54a85510a8b/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/bihaniayush/.android/build-cache/775b6e95ddae06cf5cc422ab3250d5835b355484/output/AndroidManifest.xml:19:19-85
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/bihaniayush/.android/build-cache/8ec4e1402995b447af4f58d550f2a0674dc0d406/output/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/bihaniayush/.android/build-cache/3945ea22aa333f5f1e43408e3a79fd2b18eb13d7/output/AndroidManifest.xml:22:5-67

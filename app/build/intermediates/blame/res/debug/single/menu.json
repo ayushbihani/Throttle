@@ -4,15 +4,15 @@
         "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/menu/menu_login.xml"
     },
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\menu\\menu_login.xml"
-    },
-    {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\menu\\menu_login.xml"
     }
 ]

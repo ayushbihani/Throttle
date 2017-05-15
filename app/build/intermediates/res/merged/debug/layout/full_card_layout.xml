@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="223dp"
+        android:layout_marginBottom="10sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_marginTop="10sp"
+        android:backgroundTint="@color/cardview_light_background"
+        android:elevation="20sp"
+        android:hapticFeedbackEnabled="true"
+        android:paddingBottom="15sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:paddingTop="15sp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="8sp"
+            android:src="@drawable/horsley" />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5sp"
+            android:layout_marginTop="4sp"
+            android:background="#000"
+            android:backgroundTint="@color/cardview_dark_background"></View>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            android:layout_marginTop="139sp"
+            android:orientation="horizontal">>
+
+            <TextView
+                android:id="@+id/StartPoint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="5sp"
+                android:layout_marginTop="14dp"
+                android:text="Starting point"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Date_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/StartPoint"
+                android:layout_alignBottom="@+id/StartPoint"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="27dp"
+                android:layout_marginLeft="5sp"
+                android:text="Place:"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/Place"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="5sp"
+                android:text="Horsley Hills"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:layout_alignParentTop="true" />
+
+            <TextView
+                android:id="@+id/host"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="5sp"
+                android:textSize="18sp"
+                android:layout_below="@+id/StartPoint"
+                android:text="Host:" />
+
+            <TextView
+                android:id="@+id/phoneno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5sp"
+                android:textSize="18sp"
+                android:layout_alignStart="@+id/Place"
+                android:layout_alignTop="@+id/host"
+                android:text="Phone no" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/Date_time"
+                android:layout_alignTop="@+id/phoneno"
+                android:layout_marginLeft="5sp"
+                android:textSize="18sp"
+                android:text="Time" />
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="268dp" />
+
+</android.support.design.widget.CoordinatorLayout>

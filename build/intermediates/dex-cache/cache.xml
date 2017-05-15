@@ -219,6 +219,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/bihaniayush/.android/build-cache/e50a0623a3042b7cce10546cd7490a6968f7652d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e303a0873a83f5e03b6a02cb7cfd9d6dbcc88d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/bihaniayush/.android/build-cache/d49c26abc52cff68e0b917c4c8bb73a1d03f80f8/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -646,7 +655,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="0944b5aba874829877bec0d00d49413335387b99">
+        sha1="33092a37fc18ff6ec563dd0abe6ee07e61726042">
         <dex dex="/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_30e243d43273b8a4ea151f77b33a713e2b773e2b/classes.dex" />
     </item>
     <item

@@ -7,8 +7,11 @@ import android.content.SharedPreferences;
 import android.graphics.Movie;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -48,6 +51,8 @@ public class RideInputActivity extends AppCompatActivity {
     FirebaseDatabase fbdatabase;
     private int year, month, day;
     private ImageView image;
+    private String startlatitude,startlongitude,destlatitude,destlongitude;
+    String timeString,destnString,startingString;
     private TextView selectImage;
     private EditText destn,time,starting;
     @Override
@@ -94,9 +99,9 @@ public class RideInputActivity extends AppCompatActivity {
         host.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String timeString=time.getText().toString();
-                String destnString=destn.getText().toString();
-                String startingString=starting.getText().toString();
+                timeString=time.getText().toString();
+                 destnString=destn.getText().toString();
+                startingString=starting.getText().toString();
 
                 if(timeString == null || destnString ==null || startingString ==null)
                 {
@@ -105,6 +110,7 @@ public class RideInputActivity extends AppCompatActivity {
                 }
                 else
                 {
+                    findlocation();
                     Event e =new Event();
                     e.setDestn(destnString);
                     e.setDate(timeString);
@@ -114,23 +120,42 @@ public class RideInputActivity extends AppCompatActivity {
                     editor.putString(destnString.concat(timeString).concat(startingString),json);
                     editor.apply();
                     editor.commit();
-                    DatabaseReference myRef = fbdatabase.getReference("event");
-                    myRef = myRef.child(startingString.concat(destnString)).push();
-                    String name=user_info_file.getString("Username","null");
-                    String phoneno = user_info_file.getString("Phone","null");
-                    myRef.child("date").setValue(timeString);
-                    myRef.child("destination").setValue(destnString);
-                    myRef.child("start").setValue(startingString);
-                    myRef.child("name").setValue(name);
-                    myRef.child("phone").setValue(phoneno);
+                    firebaseUpload();
                     //myRef.child("Joined").s
                     Intent i = new Intent(RideInputActivity.this,EventActivity.class);
                     startActivity(i);
                 }
+
             }
         });
     }
+    public void firebaseUpload()
+    {
+        DatabaseReference myRef = fbdatabase.getReference("event");
+        myRef = myRef.child(startingString.concat(destnString)).push();
+        String name=user_info_file.getString("Username","null");
+        String phoneno = user_info_file.getString("Phone","null");
+        myRef.child("date").setValue(timeString);
+        myRef.child("destination").setValue(destnString);
+        myRef.child("start").setValue(startingString);
+        myRef.child("name").setValue(name);
+        myRef.child("phone").setValue(phoneno);
+        myRef.child("startlatitude").setValue(startlatitude);
+        myRef.child("startlongitude").setValue(startlongitude);
+        myRef.child("destnlatitude").setValue(destlatitude);
+        myRef.child("destnlongitude").setValue(destlongitude);
+    }
 
+    public void findlocation()
+    {
+        GeocodingLocation startingAddress = new GeocodingLocation();
+        startingAddress.getAddressFromLocation(starting.getText().toString(),
+                getApplicationContext(), new GeocoderHandler());
+        GeocodingLocation destnAddress = new GeocodingLocation();
+        destnAddress.getAddressFromLocation(destn.getText().toString(),
+                getApplicationContext(), new GeocoderHandler2());
+
+    }
     @Override
     protected Dialog onCreateDialog(int id) {
         // TODO Auto-generated method stub
@@ -147,7 +172,7 @@ public class RideInputActivity extends AppCompatActivity {
                 public void onDateSet(DatePicker arg0,
                                       int arg1, int arg2, int arg3) {
                     // TODO Auto-generated method stub
-                    time.setText(arg0+"/"+arg1+"/"+arg2);
+                    time.setText(arg1+"/"+arg2+"/"+arg3);
                 }
             };
 
@@ -208,5 +233,41 @@ public class RideInputActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+    public class GeocoderHandler extends Handler {
+        @Override
+        public void handleMessage(Message message) {
+            switch (message.what) {
+                case 1:
+                    Bundle bundle = message.getData();
+                    startlatitude= bundle.getString("latitude");
+                    startlongitude=bundle.getString("longitude");
+                    Log.d("Location:",startlatitude);
+                    Log.d("Location:",startlongitude);
+                    break;
+                default:
+                    startlatitude= null;
+                    startlongitude=null;
+            }
+
+        }
+    }
+    public class GeocoderHandler2 extends Handler {
+        @Override
+        public void handleMessage(Message message) {
+            switch (message.what) {
+                case 1:
+                    Bundle bundle = message.getData();
+                    destlatitude= bundle.getString("latitude");
+                    destlongitude=bundle.getString("longitude");
+                    Log.d("DestnLoc:",destlatitude);
+                    Log.d("DestnLoc:",destlongitude);
+                    break;
+                default:
+                    destlatitude= null;
+                    destlongitude=null;
+            }
+
+        }
     }
 }

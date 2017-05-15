@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/car.jpeg",
-        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/drawable-nodpi/car.jpeg"
-    },
-    {
         "merged": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\car.jpeg",
         "source": "/home/bihaniayush/Downloads/Throttle-master/C:\\Users\\User\\Downloads\\MSRIT\\AppliedCS\\FullThrottle2-20170410T130003Z-001\\Throttle\\app\\src\\main\\res\\drawable-nodpi\\car.jpeg"
+    },
+    {
+        "merged": "/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/car.jpeg",
+        "source": "/home/bihaniayush/Downloads/Throttle-master/app/src/main/res/drawable-nodpi/car.jpeg"
     }
 ]
