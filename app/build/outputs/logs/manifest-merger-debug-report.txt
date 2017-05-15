@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManif
 		INJECTED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml
 		INJECTED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:5:5-36:19
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:5:5-40:19
 MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/bihaniayush/.android/build-cache/7566e823ba298e54a9d16cd91451334a72981c3e/output/AndroidManifest.xml:19:5-20:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bihaniayush/.android/build-cache/e86be0ef9e6550d7939b41408b6c18d9745c094f/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:24.2.1] /home/bihaniayush/.android/build-cache/7f24b94eb8d2da38e920d2b5049421f757ed56c4/output/AndroidManifest.xml:22:5-20
@@ -49,52 +49,62 @@ MERGED from [com.android.support:support-compat:24.2.1] /home/bihaniayush/.andro
 		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:10:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:11:9-13:55
+	android:value
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:13:13-52
+	android:name
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:12:13-58
 activity#com.example.user.fullthrottle.LoginActivity
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:11:9-20:20
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:14:9-23:20
 	android:label
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:13:13-45
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:16:13-45
 	android:theme
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:14:13-56
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:12:13-42
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:15:13-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:21:27-74
 activity#com.example.user.fullthrottle.RegisterActivity
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:21:9-23:20
-	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:21:19-51
-activity#com.example.user.fullthrottle.RideInputActivity
 ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:24:9-26:20
 	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:24:19-52
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:24:19-51
+activity#com.example.user.fullthrottle.RideInputActivity
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:27:9-29:20
+	android:name
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:27:19-52
 activity#com.example.user.fullthrottle.EventActivity
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:27:9-51
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:30:9-51
 	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:27:19-48
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:30:19-48
+activity#com.example.user.fullthrottle.MapsActivity
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:31:19-47
 activity#com.example.user.fullthrottle.Your_rides_activity
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:28:9-31:59
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:32:9-35:59
 	android:label
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:30:13-71
-	android:theme
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:31:13-56
-	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:29:13-48
-activity#com.example.user.fullthrottle.Joined_rides_Activtiy
-ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:32:9-35:68
-	android:label
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:34:13-74
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:34:13-71
 	android:theme
 		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:33:13-50
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:33:13-48
+activity#com.example.user.fullthrottle.Joined_rides_Activtiy
+ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:36:9-39:68
+	android:label
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:38:13-74
+	android:theme
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml:37:13-50
 uses-sdk
 INJECTED from /home/bihaniayush/Downloads/Throttle-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/bihaniayush/.android/build-cache/7566e823ba298e54a9d16cd91451334a72981c3e/output/AndroidManifest.xml:17:5-42

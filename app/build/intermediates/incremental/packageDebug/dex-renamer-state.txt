@@ -1,7 +1,4 @@
-#Mon May 15 00:14:36 IST 2017
-base.0=/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_81a41e0026c9f71718324f1de0a6f986089cc0fb
-renamed.1=classes2.dex
+#Tue May 16 00:47:26 IST 2017
+base.0=/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_30e243d43273b8a4ea151f77b33a713e2b773e2b/classes.dex
-base.1=/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_30e243d43273b8a4ea151f77b33a713e2b773e2b
-file.0=/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_81a41e0026c9f71718324f1de0a6f986089cc0fb/classes.dex
+file.0=/home/bihaniayush/Downloads/Throttle-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

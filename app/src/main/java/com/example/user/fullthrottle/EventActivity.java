@@ -76,6 +76,12 @@ public class EventActivity extends AppCompatActivity{
             {
                 Event e = events.get(position);
                 Toast.makeText(EventActivity.this,e.getStart(),Toast.LENGTH_SHORT).show();
+                Intent i = new Intent(EventActivity.this,MapsActivity.class);
+                i.putExtra("startlat",e.getStartlatitude());
+                i.putExtra("startlong",e.getStartlongitude());
+                i.putExtra("destlat",e.getDestnlatitude());
+                i.putExtra("destlong",e.getDestnlongitude());
+                startActivity(i);
             }
         }));
         dref = FirebaseDatabase.getInstance().getReference().child("event");

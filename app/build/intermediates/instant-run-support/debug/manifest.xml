@@ -31,6 +31,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
         <activity
             android:name="com.example.user.fullthrottle.LoginActivity"
             android:label="@string/app_name"
@@ -48,6 +52,7 @@
             <action android:name="android.intent.action.MAIN" />
         </activity>
         <activity android:name="com.example.user.fullthrottle.EventActivity" />
+        <activity android:name="com.example.user.fullthrottle.MapsActivity" />
         <activity
             android:name="com.example.user.fullthrottle.Your_rides_activity"
             android:label="@string/title_activity_your_rides_activity"

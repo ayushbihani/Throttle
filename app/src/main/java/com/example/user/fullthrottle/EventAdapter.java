@@ -7,6 +7,7 @@ package com.example.user.fullthrottle;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -71,6 +72,7 @@ public class EventAdapter extends RecyclerView.Adapter<EventAdapter.MyViewHolder
             public void onClick(View view) {
                 addtopreference(Event.getStart(),Event.getDestn(),Event.getDate());
                 Toast.makeText(mContext,"hello",Toast.LENGTH_SHORT).show();
+                Toast.makeText(mContext,"why",Toast.LENGTH_SHORT).show();
             }
         });
 

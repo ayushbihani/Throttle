@@ -5,6 +5,7 @@ package com.example.user.fullthrottle;
  */
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.location.Address;
 import android.location.Geocoder;
 import android.os.Bundle;
@@ -16,9 +17,12 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
 
+import static android.content.Context.MODE_PRIVATE;
+
 public class GeocodingLocation {
 
     private static final String TAG = "GeocodingLocation";
+
 
     public static void getAddressFromLocation(final String locationAddress,
                                               final Context context, final Handler handler) {
@@ -28,6 +32,7 @@ public class GeocodingLocation {
                 Geocoder geocoder = new Geocoder(context, Locale.getDefault());
                 String result;
                 String locations[] = new String[2];
+
                 try {
                     List<Address>addressList = geocoder.getFromLocationName(locationAddress, 1);
                     if (addressList != null && addressList.size() > 0) {
@@ -35,6 +40,7 @@ public class GeocodingLocation {
 
                         locations[0]=String.valueOf(address.getLatitude());
                         locations[1]=String.valueOf(address.getLongitude());
+
                     }
                 } catch (IOException e) {
                     Log.e(TAG, "Unable to connect to Geocoder", e);

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <android.support.v7.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="223dp"
+        android:layout_height="250dp"
         android:layout_marginBottom="10sp"
         android:layout_marginLeft="10sp"
         android:layout_marginRight="10sp"
@@ -36,7 +35,7 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="70sp"
+            android:layout_height="120sp"
             android:layout_marginTop="139sp"
             android:orientation="horizontal">>
 
@@ -104,18 +103,19 @@
                 android:textSize="18sp"
                 android:text="Time" />
 
-        </RelativeLayout>
+            <Button
+                android:id="@+id/mapsbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:textColor="@color/white"
+                android:theme="@style/MyButton"
+                android:layout_alignStart="@+id/Place"
+                android:text="Maps" />
 
+        </RelativeLayout>
 
     </android.support.v7.widget.CardView>
 
-    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:map="http://schemas.android.com/apk/res-auto"
-        xmlns:tools="http://schemas.android.com/tools"
-        android:id="@+id/map"
-        android:name="com.google.android.gms.maps.SupportMapFragment"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:layout="@layout/full_card_layout" />
 
 </android.support.design.widget.CoordinatorLayout>

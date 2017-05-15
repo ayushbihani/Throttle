@@ -5,6 +5,8 @@ import android.app.Dialog;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Movie;
+import android.location.Address;
+import android.location.Geocoder;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
@@ -28,6 +30,9 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.gson.Gson;
 
+import java.util.List;
+import java.util.Locale;
+
 /**
  * Created by User on 4/10/2017.
  */
@@ -50,8 +55,10 @@ public class RideInputActivity extends AppCompatActivity {
     SharedPreferences user_info_file;
     FirebaseDatabase fbdatabase;
     private int year, month, day;
+     SharedPreferences locationfile;
+     SharedPreferences.Editor edit;
     private ImageView image;
-    private String startlatitude,startlongitude,destlatitude,destlongitude;
+    public String startlatitude,startlongitude,destlatitude,destlongitude;
     String timeString,destnString,startingString;
     private TextView selectImage;
     private EditText destn,time,starting;
@@ -62,6 +69,8 @@ public class RideInputActivity extends AppCompatActivity {
 
         setContentView(R.layout.ride_input);
         file=getApplicationContext().getSharedPreferences("Pref",MODE_PRIVATE);
+        locationfile=getApplicationContext().getSharedPreferences("locationfile",MODE_PRIVATE);
+        edit=locationfile.edit();
         editor=file.edit();
         image=(ImageView)findViewById(R.id.imageview);
         selectImage = (TextView)findViewById(R.id.image);
@@ -110,7 +119,11 @@ public class RideInputActivity extends AppCompatActivity {
                 }
                 else
                 {
-                    findlocation();
+                    try {
+                        findlocation();
+                        Log.d("locations",startlongitude+"LUL"+destlatitude);
+                    }
+                    catch (Exception e){}
                     Event e =new Event();
                     e.setDestn(destnString);
                     e.setDate(timeString);
@@ -135,26 +148,54 @@ public class RideInputActivity extends AppCompatActivity {
         myRef = myRef.child(startingString.concat(destnString)).push();
         String name=user_info_file.getString("Username","null");
         String phoneno = user_info_file.getString("Phone","null");
+        myRef.child("startlatitude").setValue(locationfile.getString("startlat","null"));
+        myRef.child("startlongitude").setValue(locationfile.getString("startlong","null"));
+        myRef.child("destnlatitude").setValue(locationfile.getString("destlat","null"));
+
+        myRef.child("destnlongitude").setValue(locationfile.getString("destlong","null"));
         myRef.child("date").setValue(timeString);
         myRef.child("destination").setValue(destnString);
         myRef.child("start").setValue(startingString);
         myRef.child("name").setValue(name);
         myRef.child("phone").setValue(phoneno);
-        myRef.child("startlatitude").setValue(startlatitude);
-        myRef.child("startlongitude").setValue(startlongitude);
-        myRef.child("destnlatitude").setValue(destlatitude);
-        myRef.child("destnlongitude").setValue(destlongitude);
+
     }
 
-    public void findlocation()
-    {
-        GeocodingLocation startingAddress = new GeocodingLocation();
-        startingAddress.getAddressFromLocation(starting.getText().toString(),
-                getApplicationContext(), new GeocoderHandler());
-        GeocodingLocation destnAddress = new GeocodingLocation();
-        destnAddress.getAddressFromLocation(destn.getText().toString(),
-                getApplicationContext(), new GeocoderHandler2());
+    public void findlocation() {
+//        GeocodingLocation startingAddress = new GeocodingLocation();
+//        startingAddress.getAddressFromLocation(starting.getText().toString(),
+//                getApplicationContext(), new GeocoderHandler());
+//        GeocodingLocation destnAddress = new GeocodingLocation();
+//        destnAddress.getAddressFromLocation(destn.getText().toString(),
+//                getApplicationContext(), new GeocoderHandler2());
 
+        Geocoder geocoder = new Geocoder(getApplicationContext(), Locale.getDefault());
+        String locations[] = new String[4];
+
+        try {
+            List<Address> addressList = geocoder.getFromLocationName(startingString, 1);
+            if (addressList != null && addressList.size() > 0) {
+                Address address = addressList.get(0);
+
+                locations[0] = String.valueOf(address.getLatitude());
+                locations[1] = String.valueOf(address.getLongitude());
+                edit.putString("startlat", locations[0]);
+                edit.putString("startlong", locations[1]);
+                List<Address> addressList1 = geocoder.getFromLocationName(destnString, 1);
+                if (addressList1 != null && addressList1.size() > 0) {
+                    Address address1 = addressList1.get(0);
+
+                    locations[2] = String.valueOf(address1.getLatitude());
+                    locations[3] = String.valueOf(address1.getLongitude());
+                    edit.putString("destlat", locations[2]);
+                    edit.putString("destlong", locations[3]);
+                    edit.commit();
+                    edit.apply();
+
+                }
+            }
+        } catch (Exception e) {
+        }
     }
     @Override
     protected Dialog onCreateDialog(int id) {
@@ -242,8 +283,7 @@ public class RideInputActivity extends AppCompatActivity {
                     Bundle bundle = message.getData();
                     startlatitude= bundle.getString("latitude");
                     startlongitude=bundle.getString("longitude");
-                    Log.d("Location:",startlatitude);
-                    Log.d("Location:",startlongitude);
+
                     break;
                 default:
                     startlatitude= null;
@@ -262,6 +302,7 @@ public class RideInputActivity extends AppCompatActivity {
                     destlongitude=bundle.getString("longitude");
                     Log.d("DestnLoc:",destlatitude);
                     Log.d("DestnLoc:",destlongitude);
+                    edit.apply();
                     break;
                 default:
                     destlatitude= null;
